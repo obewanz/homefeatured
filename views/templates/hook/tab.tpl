@@ -22,4 +22,4 @@
  * PrestaShop is an internationally registered trademark of PrestaShop SA.
  *}
 
-<li><a data-toggle="tab" href="#homefeatured" class="homefeatured">{l s='Popular' mod='homefeatured'}</a></li>
+<li><a data-toggle="tab" href="#homefeatured" class="homefeatured">{l s='Featured' mod='homefeatured'}</a></li>
